@@ -8,5 +8,5 @@ Si desea contactar conmigo para algun trabajo, puede hacerlo por medio del corre
 alejandroprietosal@gmail.com
 
 ### Puede visiar para mas información
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCpc7NDNwJ1cOf422YaUK4jw?style=social)](https://www.youtube.com/channel/UCpc7NDNwJ1cOf422YaUK4jw?sub_confirmation=1)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/@Presione-Enter?sub_confirmation=1)
