@@ -1,5 +1,6 @@
 ## Hola a todos 👋
 
+-
 Bienvenido a mi perfil de GitHub. Soy un estudiante autodidacta de programación enfocado en Laravel 12.
 Disfruto mucho programar en un ambiente relajado, en silencio o con musica Jazz.
 ---
